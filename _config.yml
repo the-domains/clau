@@ -1,6 +1,6 @@
 name: Clau
 favicon: null
-layout_spectrum: 0.5038090320304036
+layout_spectrum: 1
 typography_spectrum: 0.1788391985464841
 title: Head of Media and Intelligence
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.9560282491147518
   lightness: 0.4795120076742023
   saturation: 0.30612909654155374
-  rhythmicContrast: 0.8978397075552493
+  rhythmicContrast: 1
 purpose: []
